@@ -1,204 +1,25 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744912856196 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912859959 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912863806 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912867393 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912870840 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912874308 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912877630 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912881098 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912884431 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912887671 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912890756 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912894125 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912897193 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912900281 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-name-directories.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912903741 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912906912 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912910340 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912913428 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912916746 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912919827 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-college-bl.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1744912922902 tunnel running, 0 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 0 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744913215202 tunnel running, 0 tunnels registered
 
 
 TUNNELS
 Add tunnels here: https://playit.gg/account/agents/1eedcf02-1fab-4176-be3d-ce5413d11d8c
-[2J8[0mplayit (v0.15.26): 1744912926117 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744913218465 tunnel running, 0 tunnels registered
 
 
 TUNNELS
 Add tunnels here: https://playit.gg/account/agents/1eedcf02-1fab-4176-be3d-ce5413d11d8c
-[2J8[0mplayit (v0.15.26): 1744912929259 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744913221846 tunnel running, 0 tunnels registered
 
 
 TUNNELS
 Add tunnels here: https://playit.gg/account/agents/1eedcf02-1fab-4176-be3d-ce5413d11d8c
-[2J8[0mplayit (v0.15.26): 1744912932649 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744913225332 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912935835 tunnel running, 0 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/1eedcf02-1fab-4176-be3d-ce5413d11d8c
+[2J8[0mplayit (v0.15.26): 1744913228753 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912939855 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912943002 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912946073 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912949419 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912952730 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912956071 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912959175 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912962267 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912965867 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912969065 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912972421 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912975503 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
-[2J8[0mplayit (v0.15.26): 1744912978578 tunnel running, 0 tunnels registered
-
-
-TUNNELS
-tunnel pending: https://playit.gg/account/tunnels/272046e5-75b4-4c11-aa90-5246169ee0d2
+Add tunnels here: https://playit.gg/account/agents/1eedcf02-1fab-4176-be3d-ce5413d11d8c
